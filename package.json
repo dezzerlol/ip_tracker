@@ -1,6 +1,7 @@
 {
   "name": "ip_tracker",
   "version": "0.1.0",
+  "homepage": "https://dezzerlol.github.io/ip_tracker",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
